@@ -23,11 +23,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [Mailtrap Documentation](https://mailtrap.io/docs)
 
-![Alt images](/images/1)
-![Alt images](/images/2)
-![Alt images](/images/3)
-![Alt images](/images/4)
-![Alt images](/images/5)
-![Alt images](/images/6)
-![Alt images](/images/7)
+![Alt images](/images/1.png)
+![Alt images](/images/2.png)
+![Alt images](/images/3.png)
+![Alt images](/images/4.png)
+![Alt images](/images/5.png)
+![Alt images](/images/6.png)
+![Alt images](/images/7.png)
 
